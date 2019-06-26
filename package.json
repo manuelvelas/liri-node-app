@@ -1,0 +1,24 @@
+{
+  "name": "2-with-package",
+  "version": "1.0.0",
+  "description": "liri assistant",
+  "main": "axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "inquirer": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelvelas/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manuelvelas/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/manuelvelas/liri-node-app#readme"
+}
